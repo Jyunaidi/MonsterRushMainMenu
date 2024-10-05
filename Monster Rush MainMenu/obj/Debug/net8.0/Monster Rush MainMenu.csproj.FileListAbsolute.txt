@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Monster Rush MainMenu\Monster Rush MainMenu\bin\Debug\net8.0\Monster Rush MainMenu.exe
+C:\Users\User\Desktop\Monster Rush MainMenu\Monster Rush MainMenu\bin\Debug\net8.0\Monster Rush MainMenu.deps.json
+C:\Users\User\Desktop\Monster Rush MainMenu\Monster Rush MainMenu\bin\Debug\net8.0\Monster Rush MainMenu.runtimeconfig.json
+C:\Users\User\Desktop\Monster Rush MainMenu\Monster Rush MainMenu\bin\Debug\net8.0\Monster Rush MainMenu.dll
+C:\Users\User\Desktop\Monster Rush MainMenu\Monster Rush MainMenu\bin\Debug\net8.0\Monster Rush MainMenu.pdb
+C:\Users\User\Desktop\Monster Rush MainMenu\Monster Rush MainMenu\obj\Debug\net8.0\Monster Rush MainMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Monster Rush MainMenu\Monster Rush MainMenu\obj\Debug\net8.0\Monster Rush MainMenu.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Monster Rush MainMenu\Monster Rush MainMenu\obj\Debug\net8.0\Monster Rush MainMenu.AssemblyInfo.cs
+C:\Users\User\Desktop\Monster Rush MainMenu\Monster Rush MainMenu\obj\Debug\net8.0\Monster Rush MainMenu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Monster Rush MainMenu\Monster Rush MainMenu\obj\Debug\net8.0\Monster Rush MainMenu.dll
+C:\Users\User\Desktop\Monster Rush MainMenu\Monster Rush MainMenu\obj\Debug\net8.0\refint\Monster Rush MainMenu.dll
+C:\Users\User\Desktop\Monster Rush MainMenu\Monster Rush MainMenu\obj\Debug\net8.0\Monster Rush MainMenu.pdb
+C:\Users\User\Desktop\Monster Rush MainMenu\Monster Rush MainMenu\obj\Debug\net8.0\Monster Rush MainMenu.genruntimeconfig.cache
+C:\Users\User\Desktop\Monster Rush MainMenu\Monster Rush MainMenu\obj\Debug\net8.0\ref\Monster Rush MainMenu.dll
